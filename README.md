@@ -1,0 +1,2 @@
+# memecoin
+code1
